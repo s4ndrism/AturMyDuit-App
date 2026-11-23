@@ -1,0 +1,84 @@
+LISENSI PENGGUNAAN PERANGKAT LUNAK ATURMYDUIT
+Versi 1.0 — 2026
+
+Hak cipta © 2026 s4ndrism. Seluruh hak dilindungi undang-undang.
+
+Versi bahasa Inggris dari lisensi ini tersedia di berkas `LICENSE.en`.
+
+Perangkat lunak AturMyDuit ("Aplikasi"), termasuk kode program, aset, desain,
+logo, dan dokumentasi yang menyertainya, dilisensikan kepada Anda — bukan
+dijual. Dengan memasang atau memakai Aplikasi, Anda menyetujui ketentuan di
+bawah ini. Jika Anda tidak menyetujui, jangan pasang atau pakai Aplikasi.
+
+1. LISENSI TERBATAS
+   Pemilik hak cipta memberi Anda lisensi yang tidak eksklusif, tidak dapat
+   dialihkan, dan dapat dicabut untuk memasang serta memakai Aplikasi secara
+   gratis untuk keperluan pribadi dan non-komersial, pada perangkat yang Anda
+   miliki atau kendalikan, dengan APK yang diperoleh dari kanal resmi
+   (repositori rilis publik AturMyDuit-App atau kanal lain yang ditunjuk
+   pemilik).
+
+2. LARANGAN
+   Tanpa izin tertulis dari pemilik hak cipta, Anda dilarang:
+   a. menjual, menyewakan, melisensikan ulang, atau meminta bayaran atas
+      Aplikasi;
+   b. mendistribusikan ulang, mempublikasikan ulang, atau menyebarkan APK
+      Aplikasi, baik secara utuh maupun sebagian, melalui kanal apa pun;
+   c. memodifikasi, menggabungkan, menerjemahkan, atau membuat karya turunan
+      dari Aplikasi;
+   d. melakukan dekompilasi, pembongkaran, atau rekayasa balik terhadap
+      Aplikasi, kecuali sejauh diizinkan oleh hukum yang berlaku;
+   e. menghapus, menyembunyikan, atau mengubah pemberitahuan hak cipta, merek,
+      atau atribusi di dalam Aplikasi;
+   f. memakai Aplikasi untuk kegiatan yang melanggar hukum.
+
+3. PENGGUNAAN KOMERSIAL
+   Penggunaan komersial, distribusi oleh pihak ketiga, atau integrasi ke dalam
+   produk/layanan lain memerlukan lisensi terpisah. Hubungi pemilik melalui
+   https://github.com/s4ndrism atau buka issue di
+   https://github.com/s4ndrism/AturMyDuit-App/issues.
+
+4. KODE SUMBER
+   Kode sumber Aplikasi bersifat privat dan tidak dilisensikan untuk umum.
+   Lisensi ini tidak memberi hak apa pun atas kode sumber, kecuali hak
+   terbatas untuk memakai Aplikasi dalam bentuk terpasang sebagaimana diatur
+   pada bagian 1.
+
+5. DATA PENGGUNA
+   Aplikasi bersifat local-first. Data transaksi, kantong, kategori, dan
+   pengaturan disimpan di perangkat Anda. Anda memiliki data tersebut dan
+   bertanggung jawab membuat cadangan (backup) sendiri.
+
+6. MEREK DAN BRANDING
+   Nama "AturMyDuit", logo, ikon, dan elemen branding lain adalah milik pemilik
+   hak cipta. Lisensi ini tidak memberi hak untuk memakai merek tersebut di
+   luar keperluan identifikasi Aplikasi yang sah.
+
+7. TANPA JAMINAN
+   Aplikasi disediakan "sebagaimana adanya" dan "sebagaimana tersedia", tanpa
+   jaminan apa pun, baik tersurat maupun tersirat, termasuk jaminan
+   kelayakan jual, kesesuaian untuk tujuan tertentu, dan tidak adanya
+   pelanggaran. Pemilik tidak menjamin Aplikasi bebas dari kesalahan atau
+   gangguan.
+
+8. BATASAN TANGGUNG JAWAB
+   Sejauh diizinkan hukum, pemilik hak cipta tidak bertanggung jawab atas
+   kerugian langsung, tidak langsung, insidental, khusus, atau konsekuensial
+   — termasuk kehilangan data atau keuntungan — yang timbul dari pemakaian
+   atau ketidakmampuan memakai Aplikasi.
+
+9. PENGHENTIAN
+   Lisensi ini berakhir secara otomatis jika Anda melanggar ketentuan di atas.
+   Setelah berakhir, Anda wajib berhenti memakai Aplikasi dan menghapus semua
+   salinannya.
+
+10. HUKUM YANG BERLAKU
+    Lisensi ini diatur oleh hukum Republik Indonesia, tanpa memperhatikan
+    aturan pertentangan hukum.
+
+11. KESELURUHAN PERJANJIAN
+    Lisensi ini merupakan keseluruhan perjanjian antara Anda dan pemilik
+    mengenai Aplikasi, dan menggantikan perjanjian sebelumnya yang terkait.
+    Jika ada ketidaksesuaian antara versi Indonesia dan versi Inggris, versi
+    Indonesia yang berlaku.
+
