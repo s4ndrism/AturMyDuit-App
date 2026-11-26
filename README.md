@@ -16,6 +16,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/lisensi-proprietary-red" alt="Lisensi" /></a>
   <a href="https://github.com/s4ndrism/AturMyDuit-App/stargazers"><img src="https://img.shields.io/github/stars/s4ndrism/AturMyDuit-App?style=flat" alt="Stars" /></a>
   <a href="https://github.com/s4ndrism/AturMyDuit-App/forks"><img src="https://img.shields.io/github/forks/s4ndrism/AturMyDuit-App?style=flat" alt="Forks" /></a>
+  <a href="https://trakteer.id/s4ndrism"><img src="https://img.shields.io/badge/dukung-Trakteer-be1e2d" alt="Dukung lewat Trakteer" /></a>
 </p>
 
 ---
@@ -42,6 +43,8 @@ akun, tanpa server, dan tetap jalan offline. Tersedia dalam **Indonesia** dan
 - **Backup & restore lokal** — snapshot database dengan validasi, safety
   snapshot, dan rollback.
 - **Profil lokal** — nama dan foto tanpa login.
+- **Cek pembaruan** — memberi tahu bila ada versi baru di halaman rilis; APK
+  tetap diunduh dan dipasang manual.
 - **Dua bahasa** — Indonesia dan English, bisa mengikuti bahasa sistem.
 - **Tema** — terang, gelap, atau mengikuti sistem.
 
@@ -86,6 +89,10 @@ perlu dibuat.
 AturMyDuit tidak mengirim transaksi ke server mana pun. Semua data berada di
 database lokal di perangkatmu. Backup lokal membuat salinan database di
 penyimpanan yang kamu pilih. Kamu bertanggung jawab menjaga file backup sendiri.
+
+Satu-satunya akses jaringan adalah pemeriksaan versi terbaru: aplikasi membaca
+metadata rilis publik di `api.github.com`. Tidak ada transaksi, identitas, atau
+analytics yang dikirim.
 
 ## Dukung pengembang
 
