@@ -34,8 +34,8 @@
 
 - **Data milikmu.** Semua transaksi tersimpan di SQLite di HP-mu, bukan di
   server orang lain.
-- **Saldo yang jujur.** Saldo kantong dihitung dari ledger, bukan angka yang
-  diketik manual.
+- **Saldo terhitung.** Saldo kantong berasal dari seluruh transaksi, bukan
+  angka yang diketik manual.
 - **Tetap jalan offline.** Fitur inti tidak butuh internet.
 - **Tanpa akun.** Tidak ada login, tidak ada email, tidak ada profil di cloud.
 - **Dua bahasa.** Indonesia dan English, bisa mengikuti bahasa sistem.
